@@ -1,2 +1,3 @@
-# Biblioteca_Python_GUI_Tkinter
-João Ribeiro - Criação de aplicações multiplataforma com GUI em Python e TKinter.
+# Site Doce Paladar
+Site responsivo em HTML, CSS e JavaScript adaptado
+do canal codewithsades
