@@ -9,3 +9,6 @@ https://youtu.be/CjVGp5kGHxA
 #
 
 https://youtu.be/GlROncAX4XI
+#
+# Carrinho JavaScript
+https://youtube.com/playlist?list=PLZxv3_yrHYHXinImv8ykMlvzJly-QJEWH
