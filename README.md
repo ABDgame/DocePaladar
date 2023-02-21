@@ -12,3 +12,7 @@ https://youtu.be/GlROncAX4XI
 #
 # Carrinho JavaScript
 https://youtube.com/playlist?list=PLZxv3_yrHYHXinImv8ykMlvzJly-QJEWH
+# Carrinho de Compras JavaScript 2023
+https://youtu.be/wARWyPzNA9o
+#
+#
