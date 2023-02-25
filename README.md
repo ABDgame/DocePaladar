@@ -2,9 +2,13 @@
 Site responsivo em HTML, CSS e JavaScript adaptado
 do canal codewithsades
 #
+https://mqjogos.github.io/DocePaladar/index.html
+#
+# Código by codewithsadee
 https://github.com/codewithsadee/foodie
 #
-
+# Site by codewithsadee
+https://codewithsadee.github.io/foodie/
 #
 
 https://youtu.be/CjVGp5kGHxA
