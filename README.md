@@ -1,6 +1,7 @@
 # Site Doce Paladar
-Site responsivo em HTML, CSS e JavaScript adaptado
-do canal codewithsades
+Site responsivo de uma padaria, adaptado por MQJogos,
+desenvolvido com 40.1% de elementos HTML, 48.8% de variáveis CSS e 
+11% de práticas JavaScript.
 #
 https://mqjogos.github.io/DocePaladar/index.html
 #
