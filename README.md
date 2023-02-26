@@ -6,11 +6,11 @@ desenvolvido com 40.1% de elementos HTML, 48.8% de variáveis CSS e
 https://mqjogos.github.io/DocePaladar/index.html
 #
 
-### `Código by codewithsadee`
+### `by codewithsadee`
 
 https://github.com/codewithsadee/foodie
 #
-# Site by codewithsadee
+### `by codewithsadee`
 https://codewithsadee.github.io/foodie/
 #
 
@@ -22,7 +22,7 @@ https://youtu.be/GlROncAX4XI
 #
 # Carrinho JavaScript
 https://youtube.com/playlist?list=PLZxv3_yrHYHXinImv8ykMlvzJly-QJEWH
-# Carrinho de Compras JavaScript 2023
+### `Carrinho de Compras JavaScript 2023`
 https://youtu.be/wARWyPzNA9o
 #
 #
