@@ -5,9 +5,12 @@ desenvolvido com 40.1% de elementos HTML, 48.8% de variáveis CSS e
 #
 https://mqjogos.github.io/DocePaladar/index.html
 #
-
+#
+### `Carrinho de Compras JavaScript 2023`
+https://youtu.be/wARWyPzNA9o
+#
+#
 ### `by codewithsadee`
-
 https://github.com/codewithsadee/foodie
 #
 ### `by codewithsadee`
@@ -22,7 +25,4 @@ https://youtu.be/GlROncAX4XI
 #
 # Carrinho JavaScript
 https://youtube.com/playlist?list=PLZxv3_yrHYHXinImv8ykMlvzJly-QJEWH
-### `Carrinho de Compras JavaScript 2023`
-https://youtu.be/wARWyPzNA9o
-#
-#
+
