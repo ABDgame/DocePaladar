@@ -5,8 +5,8 @@ desenvolvido com 40.1% de elementos HTML, 48.8% de variáveis CSS e
 #
 https://mqjogos.github.io/DocePaladar/index.html
 #
-#
-# Código by codewithsadee
+
+### 'Código by codewithsadee'
 https://github.com/codewithsadee/foodie
 #
 # Site by codewithsadee
