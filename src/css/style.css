@@ -254,9 +254,9 @@ body.active { overflow: hidden; }
   background-position: bottom;
 }
 
-.section-divider.white::after { background-image: url("../images/shape-white.png"); }
+.section-divider.white::after { background-image: url("../imagens/shape-white.png"); }
 
-.section-divider.gray::after { background-image: url("../images/shape-grey.png"); }
+.section-divider.gray::after { background-image: url("../imagens/shape-grey.png"); }
 
 .w-100 { width: 100%; }
 
