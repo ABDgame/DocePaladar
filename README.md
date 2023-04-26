@@ -3,6 +3,8 @@ Site responsivo de uma padaria, adaptado por MQJogos,
 desenvolvido com 63.0% de elementos HTML, 34.5% de variáveis CSS e 
 2.5% de práticas JavaScript.
 #
+https://youtu.be/5XnX83goEZo
+#
 https://mqjogos.github.io/DocePaladar/index.html
 #
 #
