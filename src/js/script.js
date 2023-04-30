@@ -1,10 +1,3 @@
-'use strict';
-
-
-
-/**
- * navbar toggle
- */
 
 const navbar = document.querySelector("[data-navbar]");
 const navbarLinks = document.querySelectorAll("[data-nav-link]");
