@@ -14,7 +14,16 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Forum&display=swap" rel="stylesheet"> 
   
+  <!-- 
+    - preload images - 02 - 05 - 2023
+  -->
+  <link rel="preload" as="image" href="./src/imagens/hero-banner.png" media="min-width(768px)">
+  <link rel="preload" as="image" href="./src/imagens/hero-banner-bg.png" media="min-width(768px)">
+  <link rel="preload" as="image" href="./src/imagens/hero-bg.jpg">
+  
   <title> Doce Paladar </title>
+  
+  
 </head>
 <body id="top">
 
@@ -54,13 +63,19 @@
 
         </ul>
       </nav>
+  
+      <!-- 
+    - Adicionado - 02 - 05 - 2023
+  -->
+      
 
       <div class="header-btn-group">
-        <button class="search-btn" aria-label="Pesquisar" data-search-btn>
+        <button class="search-btn" aria-label="Search" data-search-btn>
           <ion-icon name="search-outline"></ion-icon>
         </button>
 
-       
+        <button class="btn btn-hover">Reservation</button>
+
         <button class="nav-toggle-btn" aria-label="Toggle Menu" data-menu-toggle-btn>
           <span class="line top"></span>
           <span class="line middle"></span>
