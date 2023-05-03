@@ -28,11 +28,15 @@
   --spanish-gray: hsl(0, 0%, 60%);
   --sonic-silver: hsl(0, 0%, 47%);
   --deep-saffron: hsl(32, 100%, 59%);
-  --dark-orange: hsl(28, 100%, 58%);
+
+  --dark-docepaladar: hsl(7, 42%, 27%);
+
   --desert-sand: hsl(23, 49%, 82%);
   --isabelline: hsl(38, 44%, 96%);
   --gainsboro: hsl(0, 0%, 87%);
+
   --tangerine: hsl(31, 84%, 50%);
+
   --cinnabar: hsl(3, 90%, 55%);
   --black_95: hsla(0, 0%, 0%, 0.95);
   --cultured: hsl(0, 0%, 93%);
@@ -449,7 +453,7 @@ body.active { overflow: hidden; }
   transition: var(--transition-1);
 }
 
-.navbar-link:is(:hover, :focus) { color: var(--dark-orange); }
+.navbar-link:is(:hover, :focus) { color: var(--dark-docepaladar); }
 
 
 
@@ -536,7 +540,7 @@ body.active { overflow: hidden; }
 }
 
 .hero-subtitle {
-  color: var(--dark-orange);
+  color: var(--dark-docepaladar);
   font-family: var(--ff-shadows-into-light);
   font-size: var(--fs-3);
   letter-spacing: 1px;
@@ -1017,7 +1021,7 @@ body.active { overflow: hidden; }
 .banner-card .banner-text { margin-block: 10px 15px; }
 
 .banner-card .btn {
-  --bg-color: var(--dark-orange);
+  --bg-color: var(--dark-docepaladar);
   --height: 40px;
   --padding-inline: 25px;
 }
@@ -1181,7 +1185,7 @@ body.active { overflow: hidden; }
 }
 
 .social-link {
-  background-color: var(--dark-orange);
+  background-color: var(--dark-docepaladar);
   color: var(--white);
   font-size: 1.5rem;
   padding: 10px;
@@ -1318,7 +1322,7 @@ textarea.input-field {
 
   .header-btn-group .btn {
     display: block;
-    --bg-color: var(--dark-orange);
+    --bg-color: var(--dark-docepaladar);
   }
   
 }
