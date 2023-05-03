@@ -35,7 +35,7 @@
   --isabelline: hsl(38, 44%, 96%);
   --gainsboro: hsl(0, 0%, 87%);
 
-  --tangerine: hsl(31, 84%, 50%);
+  --meio-docepaladar: hsl(8°, 31%, 41%);
 
   --cinnabar: hsl(3, 90%, 55%);
   --black_95: hsla(0, 0%, 0%, 0.95);
@@ -174,7 +174,7 @@ body.active { overflow: hidden; }
 
 ::-webkit-scrollbar-thumb { background-color: var(--deep-saffron); }
 
-::-webkit-scrollbar-thumb:hover { background-color: var(--tangerine); }
+::-webkit-scrollbar-thumb:hover { background-color: var(--meio-docepaladar); }
 
 
 
@@ -1068,7 +1068,7 @@ body.active { overflow: hidden; }
   right: 20px;
   font-family: var(--ff-rubik);
   text-transform: uppercase;
-  --bg-color: var(--tangerine);
+  --bg-color: var(--meio-docepaladar);
   --padding-block: 5px;
 }
 
@@ -1089,7 +1089,7 @@ body.active { overflow: hidden; }
 }
 
 .blog-card .card-meta-link ion-icon {
-  color: var(--tangerine);
+  color: var(--meio-docepaladar);
   font-size: 1.5rem;
   --ionicon-stroke-width: 60px;
 }
