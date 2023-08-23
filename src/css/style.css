@@ -252,8 +252,8 @@ header .header-2.header-active{
 
 .dish .controls .buttons.button-active,
 .dish .controls .buttons:hover{
-    color:var(--red);
-    border-color: var(--red);
+    color:#321913;
+    border-color: #321913;
 }
 
 .dish .image-container{
