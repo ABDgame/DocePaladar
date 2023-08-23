@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
 
 :root{
-    --red:#e84118;
+    #321913;
 }
 
 *{
@@ -221,7 +221,7 @@ header .header-2.header-active{
 .about .row .content .btn{
     color:#321913;
     border-color: #321913;
-    outline-color: var(--red);
+    outline-color: #321913;
 }
 
 .about .row .content .btn:hover{
@@ -284,7 +284,7 @@ header .header-2.header-active{
 }
 
 .dish .image-container .image a:hover{
-    color:var(--red);
+    color:#321913;
     text-decoration: underline;
 }
 
@@ -312,7 +312,7 @@ header .header-2.header-active{
     height: 40rem;
     width: 28rem;
     margin:2rem;
-    border:.5rem solid var(--red);
+    border:.5rem solid #321913;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.3);
     position: relative;
     overflow: hidden;
@@ -329,7 +329,7 @@ header .header-2.header-active{
     bottom:-6rem; left: 0;
     width: 100%;
     background:#fff;
-    border-top:.5rem solid var(--red);
+    border-top:.5rem solid #321913;
     text-align: center;
 }
 
@@ -357,7 +357,7 @@ header .header-2.header-active{
 .chef .box-container .box .info .share a{
     font-size: 2rem;
     margin:1rem;
-    color:var(--red);
+    color:#321913;
 }
 
 .chef .box-container .box .info .share a:hover{
@@ -420,7 +420,7 @@ header .header-2.header-active{
 
 .speciality .icons-container .icons i{
     font-size: 4rem;
-    color:var(--red);
+    color:#321913;
 }
 
 .speciality .icons-container .icons h3{
@@ -477,7 +477,7 @@ header .header-2.header-active{
 .order form .inputBox input:focus,
 .order form .inputBox select:focus,
 .order form .inputBox textarea:focus{
-    border:.2rem solid var(--red);
+    border:.2rem solid #321913;
 }
 
 .order form .inputBox textarea{
@@ -493,9 +493,9 @@ header .header-2.header-active{
 }
 
 .order form .btn{
-    color:var(--red);
-    border-color: var(--red);
-    outline-color: var(--red);
+    color:#321913;
+    border-color: #321913;
+    outline-color: #321913;
 }
 
 .order form .btn:hover{
@@ -545,7 +545,7 @@ header .header-2.header-active{
     height:3.8rem;
     width:17rem;
     font-size: 1.7rem;
-    background:var(--red);
+    background:#321913;
     border:none;
     outline: none;
     color:#fff;
@@ -624,7 +624,7 @@ header .header-2.header-active{
 }
 
 .footer .credit span{
-    color:var(--red);
+    color:#321913;
 }
 
 
