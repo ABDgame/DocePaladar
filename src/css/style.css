@@ -15,7 +15,7 @@
 }
 
 *::selection{
-    background:var(--red);
+    background:#321913;
     color:#fff;
 }
 
@@ -39,7 +39,7 @@ html{
 
 .btn:hover{
     outline-offset: .4rem;
-    background:var(--red);
+    background:#321913;
 }
 
 .heading{
@@ -54,9 +54,9 @@ html{
 .heading span{
     display: inline-block;
     font-size: 3.5rem;
-    color:var(--red);
+    color:#321913;
     padding:1rem 0;
-    box-shadow: 0 .2rem .05rem var(--red);
+    box-shadow: 0 .2rem .05rem #321913;
 }
 
 header .header-1{
@@ -157,7 +157,7 @@ header .header-2.header-active{
 }
 
 .home .content h1 span{
-    color:var(--red);
+    color:#321913;
 }
 
 .home .content p{
@@ -209,7 +209,7 @@ header .header-2.header-active{
 
 .about .row .content h3{
     font-size: 3.5rem;
-    color:var(--red);
+    color:#321913;
 }
 
 .about .row .content p{
@@ -219,8 +219,8 @@ header .header-2.header-active{
 }
 
 .about .row .content .btn{
-    color:var(--red);
-    border-color: var(--red);
+    color:#321913;
+    border-color: #321913;
     outline-color: var(--red);
 }
 
