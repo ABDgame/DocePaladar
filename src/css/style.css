@@ -2,6 +2,7 @@
 
 :root{
     #321913;
+    
 }
 
 *{
@@ -107,7 +108,7 @@ header .header-2 .navbar ul li a{
 
 header .header-2 .navbar ul li a.active,
 header .header-2 .navbar ul li a:hover{
-    color:#ff0;
+    color:#ffe5d;
 }
 
 header .header-2 .share a{
@@ -117,7 +118,7 @@ header .header-2 .share a{
 }
 
 header .header-2 .share a:hover{
-    color:#ff0;
+    color:#ffe5d;
 }
 
 header .header-2 #menu{
