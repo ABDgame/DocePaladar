@@ -63,13 +63,52 @@ html{
 #header{
     width:100%;
     position:fixed;
-    top:0; left:0;
+    top:0; right:0;
     display: flex;
     align-item: center; 
     justify-content: space-between;
-    padding:2rem 4rem;
+    background:transparent;
+    padding: 30px 18%;
+    transition: ease .40s;
     z-index: 1000;
 }
+.logo{
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color:#321913;
+}
+.navbar{
+    display: flex;
+}
+.navbar a{
+    color:#321913;
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 10px 22px;
+    border-radius: 4px;
+    transition: ease .40s;
+}
+.navbar a:hover{
+  background::#fffe5d;
+  color:#321913;
+  box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
+  border-radius: 4px;
+}
+#menu-icon{
+  color:#321913;
+  font-size: 35px;
+  z-index: 10001;
+  cursor: pointer;
+  display: none;
+}
+
+
+
+
+
+
+
 
 header .header-1{
     display: flex;
@@ -275,7 +314,6 @@ header .header-2.header-active{
     flex-wrap: wrap;
     padding-bottom: 2rem;
 }
-
 .dish .image-container .image{
     width: 35rem;
     margin:2rem;
@@ -299,83 +337,6 @@ header .header-2.header-active{
     color:#321913;
     text-decoration: underline;
 }
-
-.chef{
-    min-height: 100vh;
-    background:url(../images/chefs-bg.jpg) no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
-
-.chef .heading span{
-    color:#000;
-}
-
-.chef .box-container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding:2rem 0;
-}
-
-.chef .box-container .box{
-    height: 40rem;
-    width: 28rem;
-    margin:2rem;
-    border:.5rem solid #321913;
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.3);
-    position: relative;
-    overflow: hidden;
-}
-
-.chef .box-container .box img{
-    height:100%;
-    width:100%;
-    object-fit: cover;
-}
-
-.chef .box-container .box .info{
-    position: absolute;
-    bottom:-6rem; left: 0;
-    width: 100%;
-    background:#fff;
-    border-top:.5rem solid #321913;
-    text-align: center;
-}
-
-.chef .box-container .box:hover .info{
-    bottom:0rem;
-}
-
-.chef .box-container .box .info h3{
-    font-size: 2rem;
-    color:#333;
-    padding:.5rem 0;
-}
-
-.chef .box-container .box .info span{
-    font-size: 1.5rem;
-    color:#666;
-}
-
-.chef .box-container .box .info .share{
-    margin-top: 1rem;
-    border-top: .1rem solid rgba(0,0,0,.3);
-    padding:1rem 0;
-}
-
-.chef .box-container .box .info .share a{
-    font-size: 2rem;
-    margin:1rem;
-    color:#321913;
-}
-
-.chef .box-container .box .info .share a:hover{
-    color:#333;
-}
-
 .speciality .box-container{
     display: flex;
     align-items: center;
