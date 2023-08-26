@@ -102,7 +102,16 @@ html{
   cursor: pointer;
   display: none;
 }
+section{
+  padding: 80px 18%;
+}
+.home{
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  
 
+}
 
 
 
