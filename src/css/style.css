@@ -59,80 +59,33 @@ html{
     padding:1rem 0;
     box-shadow: 0 .2rem .05rem #321913;
 }
-header .header-1{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    background-color: #fff;
-    padding:1rem 2rem;
-}
-
-header .header-1 .logo{
-    font-size: 2.5rem;
-    color:#321913;
-}
-
-header .header-1 .call{
-    font-size: 2rem;
-    color:#666;
-}
-
-header .header-2{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    background:#321913;
-    padding:.5rem;
-    position: relative;
-    z-index: 1000;
-}
-
-header .header-2 .navbar ul{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    list-style: none;
-}
-
-header .header-2 .navbar ul li{
-    margin:1rem;
-}
-
-header .header-2 .navbar ul li a{
-    font-size: 2rem;
-    color:#fff;
-}
-
-header .header-2 .navbar ul li a.active,
-header .header-2 .navbar ul li a:hover{
-    color:#ffe5d;
-}
-
-header .header-2 .share a{
-    font-size: 2rem;
-    color:#fff;
-    margin:1rem;
-}
-
-header .header-2 .share a:hover{
-    color:#ffe5d;
-}
-
-header .header-2 #menu{
-    font-size: 3rem;
-    color:#fff;
-    cursor: pointer;
-    display: none;
-    margin:1rem;
-}
-
-header .header-2.header-active{
+header{
     position: fixed;
-    top:0; left: 0;
-    box-shadow: 0 .1rem .3rem rgba(0,0,0,.3);
+    top:0; left:0; right:0;
+    background:#321913;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:2rem 9%;
 }
+
+header .logo{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color:#fff;
+    text-transform: uppercase;
+}
+
+header .logo span{
+    font-size: 2rem;
+    color:#fff;
+}
+
+header .navbar a{
+   
+}
+
 
 
 .home{
