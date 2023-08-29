@@ -128,7 +128,7 @@ header .search-bar-container label{
     margin-left: 1.5rem;
 }
 header .search-bar-container label:hover{
-    color:;
+    color:#321913;
 }
 .home{
     display: flex;
