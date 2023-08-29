@@ -135,6 +135,12 @@ header .search-bar-container label{
 header .search-bar-container label:hover{
     color:#ddd0a5;
 }
+
+
+
+
+
+
 .home{
     display: flex;
     align-items: center;
