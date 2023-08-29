@@ -108,6 +108,7 @@ header .search-bar-container{
     display: flex;
     align-item: center;
     z-index: 1001;
+    clip-path: polygon(0 0, 100% 0, 100% 0,00);
 }
 header.search-bar-container #search-bar{
     width: 100%;
