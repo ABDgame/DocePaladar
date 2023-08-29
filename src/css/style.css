@@ -108,9 +108,12 @@ header .search-bar-container{
     display: flex;
     align-item: center;
     z-index: 1001;
-    clip-path: polygon(0 0, 100% 0, 100% 0,00);
+    clip-path: polygon(0 0, 100% 0, 100% 0, 00);
 }
-header.search-bar-container #search-bar{
+header .search-bar-container.active{
+    clip-path: polygon(0 0, 100% 0, 100% 0, 00);
+}
+header .search-bar-container #search-bar{
     width: 100%;
     padding: 1rem;
     text-transform: none;
