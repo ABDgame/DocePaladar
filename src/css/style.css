@@ -87,18 +87,22 @@ header .navbar a{
     font-size: 2rem;
     margin:0 .8rem;  
 }
+
 header .navbar a:hover{
     color:#321913;
 }
+
 header .icons i{
     font-size: 2.5rem;
     color:#fff;
     cursor: pointer;
     margin-right: 2rem;
 }
+
 header .icons i:hover{
-    color:#321913;
+    color:#ddd0a5;
 }
+
 header .search-bar-container{
     position: absolute;
     top:100%; left:0; right:0;
@@ -106,19 +110,20 @@ header .search-bar-container{
     background:#321913;
     border-top: .1rem solid rgba(255,255,255,.2);
     display: flex;
-    align-item: center;
+    align-items: center;
     z-index: 1001;
-    clip-path: polygon(0 0, 100% 0, 100% 0, 00);
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
 }
 header .search-bar-container.active{
-    clip-path: polygon(0 0, 100% 0, 100% 0, 00);
+    clip-path: polygon(0 0, 100% 0, 100% 100% 0, 0 100%);
 }
+
 header .search-bar-container #search-bar{
-    width: 100%;
-    padding: 1rem;
+    width:100%;
+    padding:1rem;
     text-transform: none;
     color:#321913;
-    font-size: 1.7rem;
+    font-size:1.7rem;
     border-radius: .5rem;
 }
 header .search-bar-container label{
@@ -128,7 +133,7 @@ header .search-bar-container label{
     margin-left: 1.5rem;
 }
 header .search-bar-container label:hover{
-    color:#321913;
+    color:#ddd0a5;
 }
 .home{
     display: flex;
