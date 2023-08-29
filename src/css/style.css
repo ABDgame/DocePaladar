@@ -83,11 +83,49 @@ header .logo span{
 }
 
 header .navbar a{
-   
+    color:#fff;
+    font-size: 2rem;
+    margin:0 .8rem;  
 }
-
-
-
+header .navbar a:hover{
+    color:#321913;
+}
+header .icons i{
+    font-size: 2.5rem;
+    color:#fff;
+    cursor: pointer;
+    margin-right: 2rem;
+}
+header .icons i:hover{
+    color:#321913;
+}
+header .search-bar-container{
+    position: absolute;
+    top:100%; left:0; right:0;
+    padding:1.5rem 2rem;
+    background:#321913;
+    border-top: .1rem solid rgba(255,255,255,.2);
+    display: flex;
+    align-item: center;
+    z-index: 1001;
+}
+header.search-bar-container #search-bar{
+    width: 100%;
+    padding: 1rem;
+    text-transform: none;
+    color:#321913;
+    font-size: 1.7rem;
+    border-radius: .5rem;
+}
+header .search-bar-container label{
+    color:#fff;
+    cursor:pointer;
+    font-size: 3rem;
+    margin-left: 1.5rem;
+}
+header .search-bar-container label:hover{
+    color:;
+}
 .home{
     display: flex;
     align-items: center;
