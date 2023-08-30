@@ -81,12 +81,11 @@ header .logo span{
     font-size: 2rem;
     color:#fff;
 }
-
-header .navbar a{
-    color:#fff;
-    font-size: 2rem;
-    margin:0 .8rem;  
+header .navbar.active{
+    
 }
+
+
 
 header .navbar a:hover{
     color:#321913;
@@ -609,7 +608,10 @@ header .search-bar-container label:hover{
         padding:1rem 2rem;
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
-
+    header .navbar.active{
+        
+    
+}
     header .navbar a{
         display: block;
         border-radius: .5rem;
