@@ -2,6 +2,7 @@ let searchBtn = document.querySelector('#search-btn');
 let searchBar = document.querySelector('.search-bar-container');
 let menu = document.querySelector('#menu-bar');
 let navbar = document.querySelector('.navbar');
+let videoBtn = document.querySelectorAll('.vid-btn'); 
 
 window.onscroll = () =>{
     searchBtn.classList.remove('fa-times');
@@ -20,6 +21,16 @@ searchBtn.addEventListener('click', () =>{
     searchBtn.classList.toggle('fa-times');
     searchBar.classList.toggle('active');
 });
+
+videoBtn.forEach(btn =>{
+    btn.addEventListener('click', ()>{
+        $('.controls .active').classList.remove('active');
+    });
+});
+
+
+
+
 
 
 
