@@ -24,7 +24,12 @@ searchBtn.addEventListener('click', () =>{
 
 videoBtn.forEach(btn =>{
     btn.addEventListener('click', ()>{
-        $('.controls .active').classList.remove('active');
+        document.querySelector('.controls .active').classList.remove('active');
+        btn.classList.add('active');
+        let src = btn.getAttribute('data-src');
+        document.querySelector('#')
+
+
     });
 });
 
