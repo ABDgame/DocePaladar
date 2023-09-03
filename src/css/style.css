@@ -229,7 +229,6 @@ header .search-bar-container label:hover
 .home .controls .vid-btn.active
 {
     background:#bb8e45;
-
 }
 
 
@@ -652,6 +651,9 @@ header .search-bar-container label:hover
 
 @media(max-width:991px){
     header{
+      padding:2rem;
+    }
+    section{
       padding:2rem;
     }
 }
