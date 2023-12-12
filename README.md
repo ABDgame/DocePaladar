@@ -1,4 +1,4 @@
-# ObaPizzaria
+# DocePaladar 
 Site Responsivo padaria com HTML, CSS, JavaScript e uma pitadinha de SCSS!  
 
 # CÓDIGO FONTE:
