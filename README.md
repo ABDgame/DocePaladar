@@ -2,13 +2,7 @@
 Site Responsivo padaria com HTML, CSS, JavaScript e uma pitadinha de SCSS!  
 
 # CÓDIGO FONTE:
- - https://youtu.be/Ed0uh9Mbe8M?si=1E_S5oXFNIZ7xAFy
-#
- - https://youtu.be/Uxm17PTHAZw?si=mYzmq6Ja2BPNlGib
-#
- - https://www.youtube.com/watch?v=wkDAd26xf5w
-#
- - https://www.youtube.com/watch?v=xSC1dfyBLFU
+ - https://www.youtube.com/watch?v=ac5nmWOkBEY
 
 # Color Palette:
  - https://mycolor.space
